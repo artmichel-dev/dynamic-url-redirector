@@ -1,0 +1,4 @@
+tipo,fecha_inicio,hora_inicio,fecha_fin,hora_fin,url,description
+default,,,,,https://ejemplo.com/home,Página por defecto
+dynamics,09/07/2025,03:31,09/07/2025,09:00,https://ejemplo.com/morning,Página matutina
+specific,13/07/2025,11:30,13/07/2025,13:00,https://ejemplo.com/event,Evento especial
